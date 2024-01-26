@@ -14,6 +14,6 @@ chsh -s $(which zsh)
 
 ### Terminal color scheme
 
-[Preview](https://htmlpreview.github.io/?https://github.com/dofuuz/dotfiles/blob/main/color/tty-preview.html)
+[Preview](https://htmlpreview.github.io/?https://github.com/dofuuz/dotfiles/blob/main/color/tty-preview-nobold.html)
 
 [PuTTY](https://raw.githubusercontent.com/dofuuz/dotfiles/main/color/putty-dof.reg) | [Mintty](https://raw.githubusercontent.com/dofuuz/dotfiles/main/color/mintty-dof) | [Windows Terminal](https://raw.githubusercontent.com/dofuuz/dotfiles/main/color/winterm-dof.json)
