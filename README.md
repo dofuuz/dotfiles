@@ -15,5 +15,6 @@ https://grml.org/zsh/
 ```
 wget -O ~/.zshrc https://git.grml.org/f/grml-etc-core/etc/zsh/zshrc
 wget -O ~/.zshrc.local https://raw.githubusercontent.com/dofuuz/dotfiles/main/.zshrc.local
+wget -O ~/.zshrc.pre https://raw.githubusercontent.com/dofuuz/dotfiles/main/.zshrc.pre
 chsh -s $(which zsh)
 ```
